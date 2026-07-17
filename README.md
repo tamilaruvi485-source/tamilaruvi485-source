@@ -1,182 +1,229 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Tamilaruvi.S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20|%20Builder%20of%20Intelligent%20Systems&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:565f89&height=220&section=header&text=Hi%20There,%20I'm%20Tamilaruvi.S&fontSize=38&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20|%20Building%20with%20Python%20%26%20ML&descAlignY=55&descAlign=50" width="100%"/>
 
-<a href="https://www.linkedin.com/in/tamilaruvi-s-85baa0306">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Undergraduate;Building+Machine+Learning+Powered+Products;Sign+Language+Recognition+%7C+AI+Interview+Agent;Turning+Data+Into+Real-World+Impact" alt="Typing SVG" />
+<a href="https://github.com/tamilaruvi485-source">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=Artificial+Intelligence+%26+Data+Science+Student;Python+%7C+Machine+Learning+%7C+Data+Analytics;Sign+Language+Recognition+System+Builder;First+Prize+Winner+-+SLR+Project+Competition;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=tamilaruvi485-source&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="profile views"/>
 
 </div>
 
-<br>
-
-## 🧭 About Me
-
-Hi, I'm **Tamilaruvi S** — an Artificial Intelligence and Data Science undergraduate at **St. Joseph's College of Engineering and Technology**, driven by a genuine curiosity for how intelligent systems can solve everyday problems. I enjoy building end-to-end projects — from AI-powered tools like my mock interview agent, to accessibility-focused systems like sign language recognition — blending **Python, Machine Learning, and Web Development** into practical, working products.
-
-I care about **clean problem-solving over flashy complexity**, and I'm constantly exploring the intersection of AI, data analytics, and real-world usability. My goal is to grow into a role where I can build AI/ML-driven products that create measurable impact, while contributing to open-source and collaborative engineering teams along the way.
-
-<br>
-
-## 👨‍💻 Quick Snapshot
+<br/>
 
 ```python
 class Tamilaruvi:
     def __init__(self):
-        self.name           = "Tamilaruvi S"
-        self.location        = "Tamil Nadu, India"
-        self.degree           = "B.Tech - Artificial Intelligence & Data Science"
-        self.college          = "St. Joseph's College of Engineering and Technology"
-        self.cgpa             = 8.01
-        self.current_focus     = ["Machine Learning", "Data Analytics", "AI-Powered Applications"]
-        self.currently_learning = ["Advanced ML Systems", "Cloud Deployment", "Deep Learning"]
-        self.ask_me_about      = ["Python", "AI/ML Fundamentals", "Data Analytics", "Git & GitHub"]
-        self.fun_fact          = "Won 1st Prize for a Sign Language Recognition System 🏆"
-        self.career_goal       = "Build AI-driven products that solve real human problems"
+        self.name = "Tamilaruvi.S"
+        self.role = "AI & Data Science Student"
+        self.location = "Tamil Nadu, India"
+        self.college = "St. Joseph's College of Engineering and Technology"
+        self.degree = "B.Tech - Artificial Intelligence & Data Science (2023 - 2027)"
+        self.cgpa = 8.01
+        self.languages = ["Python"]
+        self.interests = ["Machine Learning", "Data Analytics", "Web Development", "Cybersecurity"]
+        self.currently_building = "AI Mock Interview Agent"
 
     def say_hi(self):
-        print("Thanks for visiting my profile — let's build something great! 🚀")
+        print("Thanks for stopping by my profile! Let's build something great.")
 
 me = Tamilaruvi()
 me.say_hi()
 ```
 
-<br>
-
-## 🛠️ Tech Stack
-
-**Languages**
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </p>
-
-**Web Development**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-**AI / Machine Learning**
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=OpenAI&logoColor=white">
-</p>
-
-**Data Science & Analytics**
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Data%20Analytics-6D28D9?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</p>
-
-**Developer Tools**
-<p>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-</p>
-
-**Version Control**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-<br>
-
-## 📊 GitHub Statistics
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tamilaruvi485-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilaruvi485-source&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+### 🛠️ Tech Stack
 
-<img src="https://streak-stats.demolab.com?user=tamilaruvi485-source&theme=tokyonight&hide_border=true" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilaruvi485-source&theme=tokyo-night&hide_border=true" width="90%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=tamilaruvi485-source&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
-
-<img src="https://komarev.com/ghpvc/?username=tamilaruvi485-source&label=Profile%20Views&color=6D28D9&style=flat" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-7AA2F7?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9B59B6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-1a1b27?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=tamilaruvi485-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilaruvi485-source&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+
+</div>
+
+<div align="center">
+
+### 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com?user=tamilaruvi485-source&theme=tokyonight&hide_border=true&fire=7AA2F7" width="90%"/>
+
+</div>
+
+<div align="center">
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilaruvi485-source&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 Trophy Wall
+
+<img src="https://github-profile-trophy.vercel.app/?username=tamilaruvi485-source&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+
+</div>
+
+<br/>
+
+## 💼 Internships
+
+<table width="100%">
+<tr>
+  <td width="70%">
+    <b>Cybersecurity Intern</b><br/>
+    <i>VOIS & AICTE</i>
+  </td>
+  <td align="right"><b>Certified Program</b></td>
+</tr>
+<tr><td colspan="2">🔒 Gained hands-on exposure to cybersecurity fundamentals and best practices.</td></tr>
+
+<tr>
+  <td width="70%">
+    <b>AI & Machine Learning Intern</b><br/>
+    <i>Kodacy & AICTE</i>
+  </td>
+  <td align="right"><b>Certified Program</b></td>
+</tr>
+<tr><td colspan="2">🤖 Applied AI/ML fundamentals to real-world style problem statements.</td></tr>
+
+<tr>
+  <td width="70%">
+    <b>Web Development & Ethical Hacking Intern</b><br/>
+    <i>Thamizhan Skills</i>
+  </td>
+  <td align="right"><b>Certified Program</b></td>
+</tr>
+<tr><td colspan="2">🌐 Built web development skills alongside ethical hacking fundamentals.</td></tr>
+
+<tr>
+  <td width="70%">
+    <b>Artificial Intelligence Intern</b><br/>
+    <i>IBM SkillsBuild</i>
+  </td>
+  <td align="right"><b>Certified Program</b></td>
+</tr>
+<tr><td colspan="2">🧠 Strengthened core AI concepts through IBM's structured curriculum.</td></tr>
+</table>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Key Features |
-|---|---|---|---|
-| 🤟 **[Sign Language Recognition System](https://github.com/tamilaruvi485-source)** | A Python-based system that recognizes sign language gestures to bridge communication gaps. | `Python` `Machine Learning` `Computer Vision` | Real-time gesture recognition · 🏆 1st Prize winner (₹1000 award) |
-| 🎤 **[AI Mock Interview Agent](https://github.com/tamilaruvi485-source)** | An AI-powered platform that simulates real interview scenarios for practice. | `Python` `AI/ML` | Interactive Q&A flow · Practice-driven feedback loop |
-| 🎓 **[NeuraRuvi – Student Management Dashboard](https://github.com/tamilaruvi485-source)** | A dashboard to manage and track student data efficiently. | `Python` `Web Development` | Centralized student records · Clean dashboard UI |
-| 🔍 **[Web Resume Builder & Network Port Scanner](https://github.com/tamilaruvi485-source)** | A dual-purpose tool: builds resumes on the web and scans networks for open ports. | `Python` `Web Development` `Networking` | Resume generation · Open port detection · Connectivity analysis |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### 🖐️ Sign Language Recognition System
+**Stack:** `Python` `Machine Learning` `Computer Vision`
 
-## 💼 Internship Experience
+Developed a Python-based sign language recognition system to help bridge communication for the hearing and speech impaired.
 
-<table>
-<tr><td width="30%"><b>🔐 Cybersecurity</b><br><sub>VOIS & AICTE</sub></td><td>Explored core cybersecurity concepts and practices under a structured industry-academia program.</td></tr>
-<tr><td><b>🤖 AI & Machine Learning</b><br><sub>Kodacy & AICTE</sub></td><td>Worked on foundational AI/ML concepts and applied problem-solving techniques.</td></tr>
-<tr><td><b>🌐 Web Development & Ethical Hacking</b><br><sub>Thamizhan Skills</sub></td><td>Gained hands-on exposure to web development practices and ethical hacking fundamentals.</td></tr>
-<tr><td><b>🧠 Artificial Intelligence</b><br><sub>IBM SkillsBuild</sub></td><td>Strengthened AI fundamentals through IBM's structured learning track.</td></tr>
+🏅 **Won First Prize** in the Sign Language Recognition Project Competition — awarded ₹1000 cash prize for project excellence.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ AI Mock Interview Agent
+**Stack:** `Python` `Artificial Intelligence`
+
+Built an AI-powered interview practice platform that simulates real interview scenarios to help candidates prepare effectively.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 NeuraRuvi — Student Management Dashboard
+**Stack:** `Python` `Web Development`
+
+A dashboard system designed to manage and streamline student data and academic information.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Web Resume Builder & Network Port Scanner
+**Stack:** `Python` `Web Development` `Networking`
+
+A dual-purpose tool: a web-based resume builder plus a network utility to identify open ports and analyze network connectivity.
+
+</td>
+</tr>
 </table>
 
-<br>
+<br/>
 
-## 📜 Certifications
+## 🏅 Achievements & Certifications
 
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Data%20Analytics%20with%20Python-blue?style=for-the-badge&logo=googlescholar&logoColor=white">
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Big%20Data%20101%20%26%20102-0B5FFF?style=for-the-badge&logo=infosys&logoColor=white">
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics-86BC25?style=for-the-badge&logo=deloitte&logoColor=white">
-<img src="https://img.shields.io/badge/Edunet%20%26%20AICTE-Green%20Skills%20%26%20AI-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white">
-</p>
+- 🥇 **First Prize Winner** — Sign Language Recognition Project Competition (₹1000 Cash Prize)
+- 🎤 Active participant in **Ideathons** and **Technical Symposium Events**
+- 📜 **NPTEL** — Data Analytics with Python
+- 📜 **Infosys Springboard** — Big Data 101 & Big Data 102
+- 📜 **Deloitte** — Data Analytics Certification
+- 📜 **Edunet Foundation & AICTE** — Green Skills and Artificial Intelligence
 
-<br>
+<br/>
 
-## 🏆 Achievements
+## 🎓 Education
 
-- 🥇 **1st Prize** — Sign Language Recognition Project Competition (₹1000 Cash Prize)
-- 💡 Active participant in **Ideathon** and **Technical Symposium** events
+<table width="100%">
+<tr>
+  <td width="70%"><b>B.Tech — Artificial Intelligence and Data Science</b><br/><i>St. Joseph's College of Engineering and Technology</i><br/>CGPA: 8.01</td>
+  <td align="right"><b>2023 – 2027</b></td>
+</tr>
+<tr>
+  <td width="70%"><b>Higher Secondary Education (12th Standard)</b><br/>Percentage: 73%</td>
+  <td align="right"><b>Mar 2021 – Mar 2023</b></td>
+</tr>
+<tr>
+  <td width="70%"><b>SSLC (10th Standard)</b></td>
+  <td align="right"><b>Completed</b></td>
+</tr>
+</table>
 
-<br>
+<br/>
 
-## 🎓 Education Timeline
+### 🌱 Currently Learning
 
-| Degree | Institution | Duration | Score |
-|---|---|---|---|
-| B.Tech – Artificial Intelligence & Data Science *(Pursuing)* | St. Joseph's College of Engineering and Technology | 2023 – 2027 | CGPA: 8.01 |
-| Higher Secondary Education (12th) | — | Mar 2021 – Mar 2023 | 73% |
-| SSLC (10th) | — | — | Completed |
+<img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-7AA2F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-9B59B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud%20Fundamentals-2AC3DE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced%20Data%20Analytics-FF6F00?style=flat-square"/>
 
-<br>
-
-## 🗺️ Currently Learning
-
-```
-├── 🔵 Advanced Machine Learning
-├── 🟣 Deep Learning Foundations
-├── 🟢 Cloud Deployment for AI Applications
-└── 🟠 Real-World Data Analytics Projects
-```
-
-<br>
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://github.com/tamilaruvi485-source"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/tamilaruvi-s-85baa0306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:tamilaruvi485@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<br>
+<br/><br/>
 
 <div align="center">
 
-> *"The best way to predict the future is to build it."*
+### 📫 Let's Connect
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=150&section=footer)
+<a href="mailto:tamilaruvi485@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tamilaruvi-s-85baa0306"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/tamilaruvi485-source"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+📍 Tamil Nadu, India &nbsp;|&nbsp; 📞 8838213528
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:565f89,100:1a1b27&height=120&section=footer" width="100%"/>
