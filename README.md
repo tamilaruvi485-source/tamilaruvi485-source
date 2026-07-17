@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24,25,26&text=Tamilaruvi.S&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Analytics&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=gradient&amp;customColorList=24,25,26&amp;text=Tamilaruvi.S&amp;fontSize=32&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Analytics&amp;descAlignY=60&amp;descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Building+with+Python+%26+Machine+Learning;Turning+Data+into+Insights;Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+%26+Data+Science+Student;Building+with+Python+%26+Machine+Learning;Turning+Data+into+Insights;Open+to+Opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -25,10 +25,10 @@ class Tamilaruvi:
         self.cgpa = 8.01
         self.location = "Tamil Nadu, India"
         self.skills = [
-            "Python", "Web Development", "AI & ML Fundamentals",
-            "Data Analytics", "Git & GitHub", "Microsoft Excel", "Problem Solving"
+            "Python", "Web Development", "AI and ML Fundamentals",
+            "Data Analytics", "Git and GitHub", "Microsoft Excel", "Problem Solving"
         ]
-        self.currently_learning = ["Big Data", "Green Skills & AI", "Ethical Hacking"]
+        self.currently_learning = ["Big Data", "Green Skills and AI", "Ethical Hacking"]
         self.goal = "Building impactful AI-driven solutions and growing as an AI/ML engineer"
 
     def say_hi(self):
@@ -41,39 +41,39 @@ class Tamilaruvi:
 
 **Languages**
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/> </p>
 
 **AI / ML**
 
 <p>
-<img src="https://img.shields.io/badge/Machine%20Learning-7AA2F7?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-9ECE6A?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-7AA2F7?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-9ECE6A?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
 </p>
 
 **Data Science**
 
 <p>
-<img src="https://img.shields.io/badge/Data%20Analytics-BB9AF7?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-BB9AF7?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white"/>
 </p>
 
 **Web Development**
 
 <p>
-<img src="https://img.shields.io/badge/Web%20Development-F7768E?style=for-the-badge&logo=htmx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Development-F7768E?style=for-the-badge&amp;logo=htmx&amp;logoColor=white"/>
 </p>
 
 **Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Networking-7DCFFF?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-7DCFFF?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white"/>
 </p>
 
 **Version Control**
 
 <p>
-<img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </p>
 
 <br>
@@ -82,20 +82,20 @@ class Tamilaruvi:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tamilaruvi485-source&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilaruvi485-source&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tamilaruvi485-source&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilaruvi485-source&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="35%"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=tamilaruvi485-source&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=tamilaruvi485-source&amp;theme=tokyonight&amp;hide_border=true" width="60%"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilaruvi485-source&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilaruvi485-source&amp;theme=tokyo-night&amp;hide_border=true" width="90%"/>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tamilaruvi485-source&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tamilaruvi485-source&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" width="90%"/>
 
 </div>
 
@@ -108,15 +108,15 @@ class Tamilaruvi:
 | **Sign Language Recognition System** | A Python-based sign language recognition system. Secured 1st Prize (₹1000 Cash Prize) in project competition. | Python | [View Repository](https://github.com/tamilaruvi485-source) |
 | **AI Mock Interview Agent** | An AI-powered interview practice platform. | Python, AI | [View Repository](https://github.com/tamilaruvi485-source) |
 | **NeuraRuvi** | A student management dashboard. | Python, Web Development | [View Repository](https://github.com/tamilaruvi485-source) |
-| **Web Resume Builder & Network Port Scanner** | A tool to identify open ports and analyze network connectivity, along with a web-based resume builder. | Python, Web Development | [View Repository](https://github.com/tamilaruvi485-source) |
+| **Web Resume Builder and Network Port Scanner** | A tool to identify open ports and analyze network connectivity, along with a web-based resume builder. | Python, Web Development | [View Repository](https://github.com/tamilaruvi485-source) |
 
 <br>
 
 ## 💼 Internship Experience
 
-- **Cybersecurity** — VOIS & AICTE
-- **AI & ML** — Kodacy & AICTE
-- **Web Development & Ethical Hacking** — Thamizhan Skills
+- **Cybersecurity** — VOIS and AICTE
+- **AI and ML** — Kodacy and AICTE
+- **Web Development and Ethical Hacking** — Thamizhan Skills
 - **Artificial Intelligence** — IBM SkillsBuild
 
 <br>
@@ -124,9 +124,9 @@ class Tamilaruvi:
 ## 📜 Certifications
 
 - **NPTEL** — Data Analytics with Python
-- **Infosys Springboard** — Big Data 101 & Big Data 102
+- **Infosys Springboard** — Big Data 101 and Big Data 102
 - **Deloitte** — Data Analytics
-- **Edunet Foundation & AICTE** — Green Skills and Artificial Intelligence
+- **Edunet Foundation and AICTE** — Green Skills and Artificial Intelligence
 
 <br>
 
@@ -159,7 +159,7 @@ class Tamilaruvi:
 
 ## 📈 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=tamilaruvi485-source&style=for-the-badge&color=7AA2F7" />
+<img src="https://komarev.com/ghpvc/?username=tamilaruvi485-source&amp;style=for-the-badge&amp;color=7AA2F7" />
 
 <br><br>
 
@@ -167,12 +167,12 @@ class Tamilaruvi:
 
 ## 📫 Connect With Me
 
-<a href="https://github.com/tamilaruvi485-source" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tamilaruvi-s-85baa0306" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tamilaruvi485@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/tamilaruvi485-source" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tamilaruvi-s-85baa0306" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:tamilaruvi485@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,25,26&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=gradient&amp;customColorList=24,25,26&amp;section=footer" width="100%"/>
 
 </div>
